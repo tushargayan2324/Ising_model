@@ -1,2 +1,2 @@
 # Ising_model
-Ising model solved in python for 1d and 2d. 
+Ising model solved in Julia for 1d and 2d. 
